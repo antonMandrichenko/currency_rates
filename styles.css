@@ -2,10 +2,6 @@
   padding: 1rem;
 }
 
-/*.container {*/
-  /*width: 30%;*/
-/*}*/
-
 .form-inline {
   margin: 1rem 0;
 }
@@ -17,7 +13,6 @@
 #latest_rates, #historical_rates {
   height: 300px;
   overflow-x: auto;
-  /*overflow-y: hidden;*/
 }
 
 p {
