@@ -1,0 +1,34 @@
+.tab-content {
+  padding: 1rem;
+}
+
+/*.container {*/
+  /*width: 30%;*/
+/*}*/
+
+.form-inline {
+  margin: 1rem 0;
+}
+
+.form-control {
+  margin: 0 .5rem;
+}
+
+#latest_rates, #historical_rates {
+  height: 300px;
+  overflow-x: auto;
+  /*overflow-y: hidden;*/
+}
+
+p {
+  margin-top: 0;
+  margin-bottom: 0.2rem;
+}
+
+#calendar2 {
+  width: 80%;
+}
+
+.historical-list {
+  margin-top: 1rem;
+}
